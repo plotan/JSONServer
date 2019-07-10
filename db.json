@@ -3,23 +3,6 @@
 {"id":1,"petshop_name":"Trilith","owner":"Rosalind Huggon","longitude":-8.4673336,"latitude":41.3760282,"noTelp":"895-669-1633"},
 {"id":2,"petshop_name":"Vipe","owner":"Orazio Harmant","longitude":-57.6382382,"latitude":-32.7021934,"noTelp":"695-460-2778"},
 {"id":3,"petshop_name":"Mydo","owner":"Gunner Humphris","longitude":-58.4432039,"latitude":-34.6937187,"noTelp":"877-295-0473"},
-{"id":4,"petshop_name":"Meezzy","owner":"Tammy Tumility","longitude":"105.935","latitude":"-6.4296","noTelp":"518-785-2198"},
-{"id":5,"petshop_name":"DabZ","owner":"Bria Spain-Gower","longitude":16.7664943,"latitude":49.6271732,"noTelp":"873-785-1123"},
-{"id":6,"petshop_name":"Shufflester","owner":"Karel Spearman","longitude":108.957345,"latitude":19.238934,"noTelp":"804-103-6101"},
-{"id":7,"petshop_name":"Zoombeat","owner":"Demetrius Cluelow","longitude":114.972769,"latitude":27.098536,"noTelp":"557-511-1039"},
-{"id":8,"petshop_name":"Realblab","owner":"Terry Blaskett","longitude":105.6257432,"latitude":19.1414862,"noTelp":"992-253-7542"},
-{"id":9,"petshop_name":"Mudo","owner":"Gare Jager","longitude":116.809657,"latitude":39.944315,"noTelp":"256-785-2215"},
-{"id":10,"petshop_name":"Oyondu","owner":"Roselia Do Rosario","longitude":-1.0263278,"latitude":47.2662587,"noTelp":"464-967-6666"},
-{"id":11,"petshop_name":"Vitz","owner":"Galen Espin","longitude":21.8964008,"latitude":50.0028883,"noTelp":"192-843-7680"},
-{"id":12,"petshop_name":"Topicshots","owner":"Lib Ead","longitude":104.558766,"latitude":15.38666,"noTelp":"916-418-7864"},
-{"id":13,"petshop_name":"Skajo","owner":"Otis Cordeux","longitude":122.7631154,"latitude":9.3730352,"noTelp":"939-347-8201"},
-{"id":14,"petshop_name":"Blogtags","owner":"Kelley Nabarro","longitude":30.830724,"latitude":49.2626871,"noTelp":"682-981-2374"},
-{"id":15,"petshop_name":"Thoughtbridge","owner":"Christoforo Buesden","longitude":15.9561975,"latitude":45.0084341,"noTelp":"251-459-1531"},
-{"id":16,"petshop_name":"Tagtune","owner":"Lara Lovelock","longitude":"-112.46854","latitude":"50.78342","noTelp":"406-940-3593"},
-{"id":17,"petshop_name":"Tagopia","owner":"Adamo Liell","longitude":109.2593642,"latitude":-0.1234606,"noTelp":"850-926-6053"},
-{"id":18,"petshop_name":"Eabox","owner":"Shayne Manterfield","longitude":11.3601525,"latitude":44.5288785,"noTelp":"102-792-8788"},
-{"id":19,"petshop_name":"Mynte","owner":"Bendix Teacy","longitude":22.7599084,"latitude":37.9761732,"noTelp":"725-594-1465"},
-{"id":20,"petshop_name":"Flashset","owner":"Matias Sibille","longitude":"121.9715","latitude":"-8.5261","noTelp":"948-925-9418"},
-{"id":21,"petshop_name":"Mymm","owner":"Anastassia Izakoff","longitude":107.415889,"latitude":29.1203,"noTelp":"797-462-7576"}
+{"id":4,"petshop_name":"Meezzy","owner":"Tammy Tumility","longitude":"105.935","latitude":"-6.4296","noTelp":"518-785-2198"}
 ]
 }
